@@ -1,2 +1,2 @@
 # dio-python-pandas
-Análise de dadados com Python e Pandas
+Análise de dados com Python e Pandas
